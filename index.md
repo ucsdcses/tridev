@@ -20,12 +20,10 @@ doodle-alt: "A sound wave transformed to data, and back to into a higher-frequen
 <a href="#policies">Policies</a>
 </p>
 
-TODO: summary of course, need to update below
-In this course, you will learn to write, trace, and test programs; explore the
-interactions between programs and data; and use computation to inspect and
-manipulate media like data, images, and sounds.
+This course will focus on high-performance data structures and supporting algorithms. You will use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. You will also learn about memory management, pointers, recursion, and theoretical and practical performance analysis, both average case and amortized.
 
-We will explore these topics interactively in lecure, you will implement
+
+We will explore these topics interactively in lecture, you will implement
 programs to practice your programming skills, and you will reflect on this
 learning through your own program designs.
 
@@ -37,12 +35,12 @@ course, as well as the syllabus.
 
 ## Basics
 
-- Q&A Forum: Discussions on [https://canvas.ucsd.edu](https://canvas.ucsd.edu)
+- Q&A Forum: Discussions on [https://piazza.com](https://piazza.com/class/k84yx1xfo797b)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
-- Readings/quizzes/drill assignments: TODO: update with our stepik[Stepik class signup](https://stepik.org/course/579/syllabus)
+- Readings/quizzes/drill assignments: [Stepik class signup](https://stepik.org/course/579/syllabus)
 
-TODO: update
-On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour
+**TODO**
+On an average week in CSE100, you can expect to spend 3 hours in lecture, 1 hour
 in discussion, 1 hour in lab section, 2-3 hours on reading, review, and
 programming practice, and 3-5 hours working on your programming projects (either
 at home or in the open lab hours). If you find yourself spending dramatically
@@ -70,22 +68,22 @@ more efficient strategies in office hours.
 <h3>Discussion Sections</h3>
 
 Discussion sections will demo tools and answer questions about the programming
-assignment specifications in weeks 1, 2, 4, 6, 8, and 10. Attendance is highly
-recommended but not required. In weeks 3, 5, 7, and 9, discussion will be for
-tests. In the test weeks, you must attend the section for which you're
-enrolled. In the other weeks, you can attend either section.
+assignment specifications. Attendance is highly recommended but not required. You can attend any of the sections. These discussion sections will all be held via Zoom.
 
 <table class="table table-striped">
 <thead>
   <tr>
-  <th> Discussion</th><th>Time</th><th>Location</th>
+  <th> Discussion</th><th>Time</th>
   </tr>
 </thead>
 <tr>
-  <td>A01 </td><td> Th 7pm </td><td> PCYNH109 </td>
+  <td>A01 </td><td> Th 7pm </td>
 </tr>
 <tr>
-  <td>B01 </td><td> Th 8pm </td><td> PCYNH109 </td>
+  <td>B01 </td><td> Tu 8pm </td>
+</tr>
+<tr>
+  <td>C01 </td><td> Mon 4pm </td>
 </tr>
 </table>
 
@@ -95,11 +93,17 @@ enrolled. In the other weeks, you can attend either section.
 <table class="table table-striped">
 <thead>
   <tr>
-    <th>Time</th><th>Location</th>
+    <th>Section</th><th>Time</th><th>Location</th>
   </tr>
 </thead>
 <tr>
-  <td>Sat 11:30a-2:29p</td><td>TBD</td>
+  <td>A</td><td>Wed 11:30a-2:29p</td><td>TBD</td>
+</tr>
+<tr>
+  <td>B</td><td>Th 11:30a-2:29p</td><td>TBD</td>
+</tr>
+<tr>
+  <td>C</td><td>Tu 8:00a-10:59</td><td>TBD</td>
 </tr>
 </table>
 
@@ -115,6 +119,7 @@ quizzes, programming assignments, etc. will be due. We will often have the
 schedule confirmed more than a week out, but we'll always be at least a week
 ahead.
 
+**TODO: update**
 <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0V4FNey01ZOZrkNVfoGRNaPMAM1_g8xnIoNASXLTVdZRH31Lw92RhC0OHMHM6ls0b3Scz1m9LgHi2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
 
 
@@ -127,7 +132,14 @@ ahead.
 <p>
 <a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
+<p>
+<a href="" target="">Prof Niema Moshiri</a> (Instructor)
+</p>
+<p>
+<a href="" target="">Sander Valstar</a> (Instructor)
+</p>
 
+**TODO udpate**
 There are 22 staff to help with your learning, and a few kinds of help session
 you can attend.
 
@@ -144,7 +156,7 @@ programming help. You can use the CSE labs at any time, but at the times below,
 the course staff will be available to answer your questions. You can use
 [https://autograder.ucsd.edu](https://autograder.ucsd.edu) to request help by
 filing a help ticket and a tutor will come to help. This system keeps track of
-a queue of help requests and we help out on a first-come, first-served basis.
+a queue of help requests and we help out on a first-come, first-served basis. Open lab hours will be held over Zoom. When you submit a ticket, you must also add a link to a zoom meeting where the tutor can reach you online.
 
 That said, there are some important rules for asking for help.
 
@@ -155,8 +167,8 @@ you're not sure what you're supposed to be doing on an assignment.
 2. You **must** list at least one specific thing you tried in order to resolve
 the problem on your own, or a guess at your understanding of what you should be
 doing if you're lost.
-3. You can list a location in the lab when you make a request. If you aren't
-there when the tutor arrives to help, we'll remove your ticket from the queue.
+3. You should add a zoom link when you make a request. If you aren't
+responsive when the tutor arrives to help, we'll remove your ticket from the queue.
 4. Tutors can help you understand your problem and a useful approach. They
 cannot solve your problems for you or do the programming for you. It could
 happen that you're still stuck even after getting tutor help, and that's OK!
@@ -170,28 +182,20 @@ to be able to do programming work on your own!
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_ah9di1m4nd06gfvd88kkjjpjl8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-TODO: update
-The third is **through Piazza**. For each programming assignment, we'll make a
-frequently-asked questions discussion on Canvas. You should refer to that
-during the assignment if you get stuck or have questions come up; we'll use it
-to aggregate common issues. You can feel free to comment publicly on those
-discussions, but do be conscious that other students can see what you post, so
-posting solution code is a likely academic integrity violation.
+The third is **through Piazza**. Online discussion and Q&A for the class will be available on Piazza: sign up to join the class here and view the discussion forum here. Important announcements from the course team will be pinned at the top of your feed. When you set up your account, you can select the frequency for email notifications of messages and discussions on Piazza. Piazza is one way you can ask for and get help in this course.
+
+For each programming assignment, we'll make a frequently-asked questions discussion on piazza. You should refer to that during the assignment if you get stuck or have questions come up; we'll use it to aggregate common issues. You can feel free to comment publicly on those discussions, but do be conscious that other students can see what you post, so posting solution code is a likely academic integrity violation.
+
 
 For each lecture and Stepik chapter, we'll also make a discussion post for
 general commenting and questions that you have.
 
-Finally, you can always send a private message on Canvas to ask any question
-about the course. If you choose this option, please select the “All TAs” option
-for your message unless it needs to be private to an instructor. Please don't
-message individual course staff privately unless they've asked you to, and
-please don't message only the instructor with a content question. The course
-staff as a whole works together to make sure these messages get prompt
-responses (often by adding to the frequently asked questions post).
+Finally, you can always send a private message on piazza to ask any question
+about the course. Please don't message individual course staff privately unless they've asked you to, and please don't message only the instructor with a content question. The course staff as a whole works together to make sure these messages get prompt responses (often by adding to the frequently asked questions post).
 
 <a id="grading"></a>
 ## Grading
-
+**TODO: update**
 Your grade will be calculated from:
 
 - 40% exams
@@ -201,6 +205,7 @@ Your grade will be calculated from:
 - 35% programming assignments
 
 ### Calculating PA Credit
+**TODO: update or remove**
 
 The total number of points for PAs will be around 150 – it may be higher or
 lower than that depending on how exactly the PAs get weighted, which we
@@ -213,6 +218,7 @@ roughly 135/150 plus or minus a few points as your target for full credit on
 programming work in the class.
 
 ### Exams
+**TODO: update or remove**
 
 There are four tests during the quarter and a final exam. The tests will be
 held during discussion sections in weeks 3, 5, 7, and 9.
@@ -254,6 +260,7 @@ policy applies.
 
 <a id="p:engage"></a>
 ### Engagement
+**TODO: update**
 
 There are 20 lectures during the quarter, and each will have some interactive
 questions for you to answer with an iClicker. If you answer the majority of the
@@ -269,15 +276,8 @@ during the quarter. You must register you clicker on
 [https://canvas.ucsd.edu](https://canvas.ucsd.edu).
 
 
-### Lab Work
-
-Each week in lab you'll have a small assignment to submit associated with the
-lab material. Your credit will come in part from attendance in lab and in part
-from that lab submission. We will drop your lowest lab score (including missing
-a lab entirely). For labs beyond the first that you miss, you lose the credit
-with no exceptions.
-
 ### Programming
+**TODO: update**
 
 There are two kinds of programming work you'll do in this course.
 
