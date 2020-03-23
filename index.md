@@ -5,9 +5,12 @@ doodle: "/doodle.png"
 doodle-alt: "A sound wave transformed to data, and back to into a higher-frequency version of the same sound. A four-pixel image of red, green, blue, and yellow pixels, transformed into data, then back into a rotated version of the original image."
 ---
 
-# Introduction to Programming I (UCSD CSE 8A)
+# Advanced Data Structures (UCSD CSE 100)
 
 <a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
+<a href="">Niema Moshiri</a> (Instructor)
+<a href="">Sander Valstar</a> (Instructor)
+
 
 <p>
 <a href="#basics">Basics</a> -
@@ -17,6 +20,7 @@ doodle-alt: "A sound wave transformed to data, and back to into a higher-frequen
 <a href="#policies">Policies</a>
 </p>
 
+TODO: summary of course, need to update below
 In this course, you will learn to write, trace, and test programs; explore the
 interactions between programs and data; and use computation to inspect and
 manipulate media like data, images, and sounds.
@@ -33,11 +37,11 @@ course, as well as the syllabus.
 
 ## Basics
 
-- Podcasts: [https://podcast.ucsd.edu/watch/wi20/cse8a_b00](https://podcast.ucsd.edu/watch/wi20/cse8a_b00)
 - Q&A Forum: Discussions on [https://canvas.ucsd.edu](https://canvas.ucsd.edu)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
-- Readings/quizzes/drill assignments: [Stepik class signup](https://stepik.org/join-class/183da6a3855cd85e70f112f549131354ec8b43f3)
+- Readings/quizzes/drill assignments: TODO: update with our stepik[Stepik class signup](https://stepik.org/course/579/syllabus)
 
+TODO: update
 On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour
 in discussion, 1 hour in lab section, 2-3 hours on reading, review, and
 programming practice, and 3-5 hours working on your programming projects (either
@@ -82,49 +86,6 @@ enrolled. In the other weeks, you can attend either section.
 </tr>
 <tr>
   <td>B01 </td><td> Th 8pm </td><td> PCYNH109 </td>
-</tr>
-</table>
-
-<a id="b:labs"></a>
-<h3>Lab Sessions</h3>
-
-You must attend the lab session in which you are enrolled.  You will work in
-groups in lab; you are starting your journey into Computer Science and we want
-to help you meet your classmates who will be with you along the way.  The
-groups will be assigned by the Lab TA and group assignments may change from
-week to week. All labs must be finished in the allotted class time.  As a
-group, you will create a lab report each week and your TA will review it and
-give you feedback.
-
-You will need a lab-specific account to use these machines, you can find yours
-at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
-
-<table class="table table-striped">
-<thead>
-  <tr>
-  <th> Lab Section</th><th>Time</th><th>Location</th><th>TA</th>
-  </tr>
-</thead>
-<tr>
-  <td> A50 </td><td>Wed 8am </td><td>CSE B230 </td><td>Sophia</td>
-</tr>
-<tr>
-  <td> A51 </td><td>Wed 9am </td><td>CSE B230 </td><td>Sophia</td>
-</tr>
-<tr>
-  <td> A52 </td><td>Wed 10am </td><td>CSE B230 </td><td>Sophia</td>
-</tr>
-<tr>
-  <td> A53 </td><td>Wed 11am </td><td>CSE B230 </td><td>Alex</td>
-</tr>
-<tr>
-  <td> B50 </td><td>Wed 12pm </td><td>CSE B230 </td><td>Alex</td>
-</tr>
-<tr>
-  <td> B51 </td><td>Wed 1pm </td><td>CSE B230 </td><td>Laura</td>
-</tr>
-<tr>
-  <td> B52 </td><td>Wed 2pm </td><td>CSE B230 </td><td>Laura</td>
 </tr>
 </table>
 
@@ -175,7 +136,7 @@ listed below. Office hours are a great place for any kind of question about the
 course, from help with your assignment to clarifications about material in
 lecture to questions beyond what we cover in the course.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_iranatnnh11l5uorfkdqpahkis%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_ek97t08565rln137vq7fkjmfd0%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 The second is **open lab hours** where tutors are available to answer your
 questions about any course content, though often this is a good place to go for
@@ -207,9 +168,10 @@ students as possible. They also encourage students to do some meaningful work
 on their own before reaching out for help – the goal of the course is for you
 to be able to do programming work on your own!
 
-<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_q7ovv9klsg3v8b7u5t3mggkhcg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_ah9di1m4nd06gfvd88kkjjpjl8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-The third is **through Canvas**. For each programming assignment, we'll make a
+TODO: update
+The third is **through Piazza**. For each programming assignment, we'll make a
 frequently-asked questions discussion on Canvas. You should refer to that
 during the assignment if you get stuck or have questions come up; we'll use it
 to aggregate common issues. You can feel free to comment publicly on those
