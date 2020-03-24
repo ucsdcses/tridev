@@ -7,10 +7,9 @@ doodle-alt: "A sound wave transformed to data, and back to into a higher-frequen
 
 # Advanced Data Structures (UCSD CSE 100)
 
-<a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
 <a href="">Niema Moshiri</a> (Instructor)
 <a href="">Sander Valstar</a> (Instructor)
-
+<a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
 
 <p>
 <a href="#basics">Basics</a> -
