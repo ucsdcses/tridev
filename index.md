@@ -2,7 +2,6 @@
 layout: page
 title: "UCSD CSE8A – Introduction to Programming 1"
 doodle: "/doodle.png"
-doodle-alt: "A sound wave transformed to data, and back to into a higher-frequency version of the same sound. A four-pixel image of red, green, blue, and yellow pixels, transformed into data, then back into a rotated version of the original image."
 ---
 
 # Advanced Data Structures (UCSD CSE 100)
@@ -19,8 +18,12 @@ doodle-alt: "A sound wave transformed to data, and back to into a higher-frequen
 <a href="#policies">Policies</a>
 </p>
 
-This course will focus on high-performance data structures and supporting algorithms. You will use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. You will also learn about memory management, pointers, recursion, and theoretical and practical performance analysis, both average case and amortized.
-
+This course will focus on high-performance data structures and supporting
+algorithms. You will use and implement of data structures like (un)balanced
+trees, graphs, priority queues, and hash tables. You will also learn how to
+make sophisticated use of memory management, pointers, and recursion in
+programs, and analyze them with theoretical and practical performance
+analysis.
 
 We will explore these topics interactively in lecture, you will implement
 programs to practice your programming skills, and you will reflect on this
@@ -38,16 +41,19 @@ course, as well as the syllabus.
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
 - Readings/quizzes/drill assignments: [Stepik class signup](https://stepik.org/course/579/syllabus)
 
-**TODO**
-On an average week in CSE100, you can expect to spend 3 hours in lecture, 1 hour
-in discussion, 1 hour in lab section, 2-3 hours on reading, review, and
-programming practice, and 3-5 hours working on your programming projects (either
-at home or in the open lab hours). If you find yourself spending dramatically
-more time than this, it's a good idea to contact the course staff and discuss
-more efficient strategies in office hours.
 
 <a id="b:lec"></a>
-<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#p:engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled.
+
+<h3>Lecture</h3>
+
+Content in the course will be mostly delivered via pre-recorded videos and
+the Stepik textbook. In the normally-scheduled lecture sections, you will
+work in groups to complete challenge problems related to the homework and
+programming assignments, with Q&A and guidance from the instructors.
+(Virtual) attendance at the scheduled lecture sections is not required, but
+it is encouraged. You're also encouraged, but not required, to virtually
+attend the lecture section for which you are enrolled.
+
 
 <table class="table table-striped">
 <thead>
@@ -56,18 +62,23 @@ more efficient strategies in office hours.
   </tr>
 </thead>
 <tr>
-  <td> A00 </td><td>TuTh 8am</td><td>CENTR115 </td>
+  <td>A00</td><td>Mon/Wed/Fri XXX</td><td>[LINK]</td>
 </tr>
 <tr>
-  <td>B00 </td><td>TuTh 9:30am </td><td>CENTR109</td>
+  <td>B00</td><td>Mon/Wed/Fri XXX</td><td>[LINK]</td>
+</tr>
+<tr>
+  <td>C00</td><td>Tue/Thu XXX</td><td>[LINK]</td>
 </tr>
 </table>
 
 <a id="b:disc"></a>
 <h3>Discussion Sections</h3>
 
-Discussion sections will demo tools and answer questions about the programming
-assignment specifications. Attendance is highly recommended but not required. You can attend any of the sections. These discussion sections will all be held via Zoom.
+Discussion sections will demo tools and answer questions about the
+programming assignment specifications. Attendance is highly recommended but
+not required. You can attend any of the sections. These discussion sections
+will all be held via Zoom.
 
 <table class="table table-striped">
 <thead>
@@ -87,25 +98,26 @@ assignment specifications. Attendance is highly recommended but not required. Yo
 </table>
 
 <a id="finalexam"></a>
-<h3>Final Exam</h3>
+<h3>Exams</h3>
 
-<table class="table table-striped">
-<thead>
-  <tr>
-    <th>Section</th><th>Time</th><th>Location</th>
-  </tr>
-</thead>
-<tr>
-  <td>A</td><td>Wed 11:30a-2:29p</td><td>TBD</td>
-</tr>
-<tr>
-  <td>B</td><td>Th 11:30a-2:29p</td><td>TBD</td>
-</tr>
-<tr>
-  <td>C</td><td>Tu 8:00a-10:59</td><td>TBD</td>
-</tr>
-</table>
+The course will have a midterm exam and a final exam, both of which will be
+given aynchronously and electronically. Exams will allow the use of notes,
+readings, and other online resources. You **cannot** collaborate with other
+students on exams, as they are individual assessments.
 
+The midterm will be have its exam time centered on Wednesday, April 29. The
+final exam will have its exam time centered on Thursday, June 11. Detailed
+instructions will be released with the exams, but you should make sure that
+you have **three hours free some time the day of the exam** in which you can
+focus and complete an examination that may require fairly continuous internet
+access during that time. We'll release more detailed hours as we get
+information about the time zones in the class and availability of students,
+but this is a good overall schedule you should plan for.
+
+Exams will use Canvas or Gradescope test-taking features. We may ask you
+(after the exam) to check in for a phone call or screenshare with a TA or
+instructor to spot-check your understanding, and we'll give plenty of time
+for scheduling such a check-in.
 
 <a id="schedule"></a>
 ## Schedule
