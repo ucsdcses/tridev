@@ -114,10 +114,7 @@ access during that time. We'll release more detailed hours as we get
 information about the time zones in the class and availability of students,
 but this is a good overall schedule you should plan for.
 
-Exams will use Canvas or Gradescope test-taking features. We may ask you
-(after the exam) to check in for a phone call or screenshare with a TA or
-instructor to spot-check your understanding, and we'll give plenty of time
-for scheduling such a check-in.
+Exams will use Canvas or Gradescope test-taking features.
 
 <a id="schedule"></a>
 ## Schedule
@@ -141,172 +138,136 @@ ahead.
 <a id="staff"></a>
 
 <p>
-<a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
+<a href="https://jpolitz.github.io" target="">Joe Gibbs Politz</a> (Instructor)
 </p>
 <p>
-<a href="" target="">Prof Niema Moshiri</a> (Instructor)
+<a href="" target="">Niema Moshiri</a> (Instructor)
 </p>
 <p>
 <a href="" target="">Sander Valstar</a> (Instructor)
 </p>
 
-**TODO udpate**
-There are 22 staff to help with your learning, and a few kinds of help session
-you can attend.
+There are dozens of staff to help with your learning, and a few kinds of help
+session you can attend.
 
 The first is **office hours**, held by TAs and the instructor at the times
-listed below. Office hours are a great place for any kind of question about the
-course, from help with your assignment to clarifications about material in
-lecture to questions beyond what we cover in the course.
+listed below. Office hours are a great place for any kind of question about
+the course, from help with your assignment to clarifications about material
+in lecture to questions beyond what we cover in the course.
+
+Since we're remote, there are some logistics to consider for office hours. We
+typically offer office hours as a **group activity** – more than one person
+can be in our office getting help and participating in discussion at a time.
+That will also be the case with remote hours. You can click on any of the
+Calendar events below to see a corresponding Zoom link that you can join.
+When you join you'll initially be in a waiting room – think of this as like
+being outside the office right before we tell you to come in. We'll usually
+admit you pretty quickly, and then you can ask any questions you have as they
+fit into the ongoing group discussion.
+
+If you have a private question, you can send a chat message directly to the
+TA or instructor in the room that you have a question that needs to be asked
+privately. Examples of private questions are those about grades or a personal
+situation that requires a special accommodation. We will arrange for part of
+the time to be just you in the room (moving others to the waiting room as
+necessary). We would prefer that any questions about course content always be
+asked to the group so that everyone can benefit from the resulting
+discussion.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_ek97t08565rln137vq7fkjmfd0%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-The second is **open lab hours** where tutors are available to answer your
-questions about any course content, though often this is a good place to go for
-programming help. You can use the CSE labs at any time, but at the times below,
-the course staff will be available to answer your questions. You can use
-[https://autograder.ucsd.edu](https://autograder.ucsd.edu) to request help by
-filing a help ticket and a tutor will come to help. This system keeps track of
-a queue of help requests and we help out on a first-come, first-served basis. Open lab hours will be held over Zoom. When you submit a ticket, you must also add a link to a zoom meeting where the tutor can reach you online.
 
-That said, there are some important rules for asking for help.
 
-1. You **must** give a specific, actionable request in your help ticket. If
-your ticket simply says “I'm stuck,” we will remove the ticket from the queue
-with a response that urges you to be more specific. It's OK to ask questions if
-you're not sure what you're supposed to be doing on an assignment.
-2. You **must** list at least one specific thing you tried in order to resolve
-the problem on your own, or a guess at your understanding of what you should be
-doing if you're lost.
-3. You should add a zoom link when you make a request. If you aren't
-responsive when the tutor arrives to help, we'll remove your ticket from the queue.
-4. Tutors can help you understand your problem and a useful approach. They
-cannot solve your problems for you or do the programming for you. It could
-happen that you're still stuck even after getting tutor help, and that's OK!
-You can always work the problem on your own, come to office hours for a
-different perspective, or come back to the problem (even after the deadline).
+The second is **open lab hours** where tutors give one-on-one help with
+programming tasks and course content. For these sessions, you should submit a
+ticket on [https://autograder.ucsd.edu](https://autograder.ucsd.edu) to
+request help. There is an extra step since we are remote – along with your
+ticket, you should submit a link to a Zoom meeting **that you create and
+start**. The tutor will join that Zoom meeting, chat with you to help you
+with your issue, and then leave the meeting. You can, for example, start a
+screenshare with your code before the tutor arrives to help them immediately
+see your issue and present what you're seeing.
 
-These rules help us make sure we get timely and actionable help to as many
-students as possible. They also encourage students to do some meaningful work
-on their own before reaching out for help – the goal of the course is for you
-to be able to do programming work on your own!
+[Can be TUTOR/TA TODO to fill this in, this is an update of the instructions
+from last quarter]
+
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_ah9di1m4nd06gfvd88kkjjpjl8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-The third is **through Piazza**. Online discussion and Q&A for the class will be available on Piazza: sign up to join the class here and view the discussion forum here. Important announcements from the course team will be pinned at the top of your feed. When you set up your account, you can select the frequency for email notifications of messages and discussions on Piazza. Piazza is one way you can ask for and get help in this course.
+The third is **through Piazza**. Online discussion and Q&A for the class will
+be available on Piazza: sign up to join the class here and view the
+discussion forum here. Important announcements from the course team will be
+pinned at the top of your feed. When you set up your account, you can select
+the frequency for email notifications of messages and discussions on Piazza.
 
-For each programming assignment, we'll make a frequently-asked questions discussion on piazza. You should refer to that during the assignment if you get stuck or have questions come up; we'll use it to aggregate common issues. You can feel free to comment publicly on those discussions, but do be conscious that other students can see what you post, so posting solution code is a likely academic integrity violation.
+For each programming assignment, we'll make a frequently-asked questions
+discussion on Piazza. You should refer to that during the assignment if you
+get stuck or have questions come up; we'll use it to aggregate common issues.
+You can feel free to comment publicly on those discussions, but do be
+conscious that other students can see what you post, so posting solution code
+for a project or an answer for a homework is an academic integrity violation.
+
+The default is that posts are **private** to discourage accidentally
+over-sharing solution code. If your post is a question about content,
+lecture, course technology, logistics, etc, please do ask it publicly so
+others can benefit from the answer.
 
 
-For each lecture and Stepik chapter, we'll also make a discussion post for
-general commenting and questions that you have.
+Finally, you can always send a private message on Piazza to ask any question
+about the course. Please don't message individual course staff privately
+unless they've asked you to, and please don't message only the instructor
+with a content question. The course staff as a whole works together to make
+sure these messages get prompt responses (often by adding to the frequently
+asked questions post).
 
-Finally, you can always send a private message on piazza to ask any question
-about the course. Please don't message individual course staff privately unless they've asked you to, and please don't message only the instructor with a content question. The course staff as a whole works together to make sure these messages get prompt responses (often by adding to the frequently asked questions post).
 
 <a id="grading"></a>
 ## Grading
-**TODO: update**
 Your grade will be calculated from:
 
-- 40% exams
-- 5% engagement/participation
-- 10% lab work
-- 10% reading, review, and practice exercises
-- 35% programming assignments
+- 44% homeworks (6-8 total)
+- 16% engagement / quizzes (per-lecture/per-week)
+- 20% programming projects (2 large projects)
+- 20% exams (midterm and final exam combined)
 
-### Calculating PA Credit
-**TODO: update or remove**
+### Homeworks
 
-The total number of points for PAs will be around 150 – it may be higher or
-lower than that depending on how exactly the PAs get weighted, which we
-partially decide during grading.  The required points for full credit towards
-PAs will be less than this by at least 15 points. This roughly has the effect
-of making a low PA score not count, while still incentivizing you to resubmit
-PAs to make up lost credit, since all points go towards the same total.
-There's no extra  credit for getting _more_ points than this total. So think of
-roughly 135/150 plus or minus a few points as your target for full credit on
-programming work in the class.
-
-### Exams
-**TODO: update or remove**
-
-There are four tests during the quarter and a final exam. The tests will be
-held during discussion sections in weeks 3, 5, 7, and 9.
-
-The scoring of the tests and final works as follows:
-
-- All 40% of your exam points come from your final exam score.
-- The final exam will be split into four sections, roughly corresponding to the
-  material covered by each test, and each worth 25% of your exam score
-- The score you get on each test contributes to your final exam score in the
-  relevant category, up to a maximum of 10% of the 25% for that section.  You
-  can't score more than 25% on each section of the final exam with this
-  additional contribution.
-- If you get a lower score on the final exam than the average of your test
-  scores minus 20%, you instead earn that score on the final.
-
-This means that each test contributes to your final exam score, but if you miss
-or do poorly on a test you can always make up the credit by doing well on the
-corresponding section of the final exam.
-
-**Example:** A student scores 50%, 60%, 0%, and 80% on the four tests. On the final
-exam, they score 10/25, 20/25, 20/25, 15/25 on each of the four sections. Their
-final exam score would be (10 + 5) + (20 + 6) + (20 + 0) + (15 + 8) for a total
-of 83/100 on the exam.
-
-**Example:**  A student scores 60%, 70%, 80%, and 90% on the tests, and then
-skips the final.  Their final exam grade will be 55%.
-
-**Example:**  A student scores 100%, 100%, 100%, and 100% on the tests, and
-then gets only 5/25 of the credit in each portion of the final exam.  Their
-final exam grade will be 80%.
-
-**Make-up Exams**: There are no make-up exams given. If you miss one of the
-tests, your score for that test is a 0 and you don't earn credit towards that
-part of the final exam ahead of time. Note that this doesn't necessarily impact
-your final grade, since you can still earn all of the credit on the final exam
-itself. Similarly, if you miss or skip the final, the average-replacement
-policy applies.
+Homeworks will be a mix of programming tasks and specific questions about
+data structures, and will be partially automatically graded and partially
+graded by course staff. These will be released on a weekly basis for the
+first part of the course.
 
 <a id="p:engage"></a>
 ### Engagement
-**TODO: update**
 
-There are 20 lectures during the quarter, and each will have some interactive
-questions for you to answer with an iClicker. If you answer the majority of the
-questions in a lecture, you get engagement credit for that lecture. You get
-full engagement credit if you get credit for <s>**14**</s> **12** lectures
-(adjusted down due to some technical iClicker issues in some lectures). Of
-course, you're encouraged to come to all lectures, but this policy accounts for
-a wide range of clicker technology issues, absences, and so on. For each
-lecture you miss beyond those 14, you lose one point of engagement credit (so
-if you attend only 11 lectures, you get 2/5 engagement points). Surveys and
-other forms of feedback may provide ways to make up missed engagement credit
-during the quarter. You must register you clicker on
-[https://canvas.ucsd.edu](https://canvas.ucsd.edu).
+Each lecture comes with some quiz/engagement material, either Gradescope
+online assignment or some steps to complete in Stepik. The required material
+will be clearly labelled with each lecture. You must engage with at least **8
+weeks'** worth of the required engagement material for a full score, and
+engagement scores will be calculated on a week-by-week basis.
 
+### Programming Projects
 
-### Programming
-**TODO: update**
+There will be two larger programming projects that are assigned in the later
+part of the course. These will combine data structures knowledge you acquire
+from class and homework with the pragmatics of writing a significant
+application that demands high performance. These will be completed in a C++
+programming environment that you will gain some practice with through
+homeworks.
 
-There are two kinds of programming work you'll do in this course.
+### Exams
 
-1. **Programming Practice** will be conducted via Stepik. This will consist of
-short, directed programming challenges that are graded automatically and
-immediately. These often go along with reading material and short quiz
-questions. The quiz questions and programming material are graded together, and
-each chapter will make it clear what it means to get full credit. This work is
-to be done individually, though after the deadline it's fine to discuss it
-openly and publicly with other students.
+The midterm and final combined are worth 20% of your grade:
 
-2. **Programming Projects** (Also called “Programming Assignments” and
-abbreviated PAs). These are more open-ended programming tasks where you will
-make design decisions about your programs and write about your choices. These
-will be graded by the staff, who will give you feedback on your code and design
-decisions. All programming work is to be done individually on the projects by
-default, we will announce any particular cases where teamwork or partners are
-allowed.
+- If your final exam score is higher than your midterm exam score, the final
+counts for 15% and the midterm for 5%. This includes the case where you don't
+complete the the midterm exam.
+- If your final exam score is lower than your midterm exam score, the final
+counts for 10% and the midterm for 10%. This includes the case where you
+don't take the final exam.
+
+You must take and pass at least one of the two exams to pass the course.
+
 
 ### Final Scoring
 
@@ -346,6 +307,11 @@ We may adjust the above scale to be more lenient (depending on the overall
 class performance), but we guarantee that we will not adjust the scale to make
 it harder to get a better grade.
 
+Note that for Spring 2020, all students have the option to take the P/NP
+option for any or all of their courses, and can make the decision as late as
+week 10. More information is available [in this memo from the CSE
+department](https://drive.google.com/file/d/1e3CZtGzbf71WIGCjb_oPZ2XdXb4B-TKU/view)
+so you can make the best decision for your situation.
 
 <a id="policies"></a>
 ## Policies
@@ -354,9 +320,24 @@ it harder to get a better grade.
 ### Academic Integrity
 
 We have a [missive on academic integrity you must agree
-to](https://docs.google.com/document/d/1F6tu-82W5kFkEkZG8n4F7p-MLhyFVWLdPw5Tm1fABfM/edit?folder=1jNMUNlJuyXaOxDE5MdNNfRFARxfP40Rr#)
+to TODO update](https://docs.google.com/document/d/1F6tu-82W5kFkEkZG8n4F7p-MLhyFVWLdPw5Tm1fABfM/edit?folder=1jNMUNlJuyXaOxDE5MdNNfRFARxfP40Rr#)
 that details some examples of what we expect in terms of collaboration in the
 course.
+
+Note that with the course remote, one challenge we face as an instructional
+team is verifying that students are submitting their own work. We typically
+use exams to mitigate this particular challenge to academic integrity, since
+it requires an in-person, ID-checked assessment. Assignments and exams will
+come with specific policies for what types of collaboration is allowed, but
+we have one course-wide policy – we may reach out to students to schedule a
+check-in on their understanding of work they've submitted. We might do so at
+random as a spot check, or because we notice something odd in a submission.
+Your ability to describe your submitted work could be used as an additional
+assessment and part of your grade.
+
+We don't expect to use this option much (certainly **you** are a student that
+acts with integrity!), but we state it clearly in the syllabus in case it
+becomes necessary so it isn't a surprise to anyone.
 
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
@@ -364,9 +345,10 @@ on academic integrity as well.
 
 ### Late Work
 
-In general, late work is not accepted. However, there will be ways to earn back
-credit on assignments after there submission, which may differ across
-assignments and will be announced during the quarter.
+In general, late work is not accepted. However, most of the categories of
+submission for the course allow some missed submissions without having a
+large impact on your grade, and you only have to submit a subset of them for
+full credit.
 
 ### Regrades
 
@@ -375,33 +357,6 @@ we will allow a short period for you to request a fix (announced along with
 grade release). If you don't make a request in the given period, the grade you
 were initially given is final.
 
-
-### Laptop/Device Policy in Lecture
-
-There are lots of great reasons to have a laptop, tablet, or phone open
-during class. You might be taking notes, getting a photo of an important
-moment on the board, trying out a program that we're developing together, and
-so on. The main issue with screens and technology in the classroom isn't your
-own distraction (which is your responsibility to manage), it's the
-distraction of **other students**. Anyone sitting behind you cannot help but
-have your screen in their field of view. Having distracting content on your
-screen can really harm their learning experience.
-
-With this in mind, the device policy for the course is that if you have a
-screen open, you either:
-
-- Have only content onscreen that's directly related to the current lecture.
-- Have unrelated content open and **sit in one of the back two rows of the
-  room** to mitigate the effects on other students. I may remind you of this
-  policy if I notice you not following it in class. Note that I won't be
-  offended if you want to sit in the back and try to multi-task in various ways
-  while participating in lecture. I certainly don't recommend it, but I also
-  respect your freedom to choose how you spend your time and attention.
-
-Shriram Krishnamurthi has aggregated some [useful links and
-literature](https://cs.brown.edu/courses/cs019/2018/laptop-policy.html) on the
-topic of devices in the classroom that you may find informative. Our policy is
-different, but the information on that page is useful.
 
 ### Diversity and Inclusion
 
@@ -432,6 +387,9 @@ of the course, please contact the Office of Prevention of Harassment and
 Discrimination: https://ophd.ucsd.edu/.
 
 ### Consent to Participate in Educational Research
+
+[TODO someone format this better]
+
 University of California, San Diego
 Consent to Act as a Research Subject
 Investigating the Impact of Pedagogical Choices on University Student Learning and Engagement
@@ -466,17 +424,23 @@ Can you choose to not participate or withdraw from the study without penalty or 
 Participation in research is entirely voluntary. You may refuse to participate or withdraw or refuse to answer specific questions in an interview or on a questionnaire at any time without penalty or loss of benefits to which you are entitled. If you decide that you no longer wish to continue in this study before the end of the quarter, simply respond to the online opt-out form here: https://goo.gl/forms/JSBRjEmkES6W6xYc2.  If you decide to opt out after the quarter has ended, you must contact Laurel Nelson (laureln@ucsd.edu) and give the quarter and the course from which you would like your data withdrawn.
 You will be told if any important new information is found during the course of this study that may affect your wanting to continue.
 
-Can you be withdrawn from the study without your consent?
+**Can you be withdrawn from the study without your consent?**
+
 The PI may remove you from the study without your consent if the PI feels it is in your best interest or the best interest of the study. You may also be withdrawn from the study if you do not follow the instructions given you by the study personnel.
 
-Will you be compensated for participating in this study?
+**Will you be compensated for participating in this study?**
+
 You will not be compensated for participating in this study.
 
-Are there any costs associated with participating in this study?
+**Are there any costs associated with participating in this study?**
+
 There will be no cost to you for participating in this study.
- Who can you call if you have questions?
+
+**Who can you call if you have questions?**
+
 Gabriele Wienhausen and/or her colleague has explained this study to you and answered your questions. If you have other questions or research-related problems, you may reach Gabriele Wienhausen at gwienhausen@ucsd.edu or (858) 534-3958.
 You may call the Human Research Protections Program Office at 858-246-HRPP (858-246-4777) to inquire about your rights as a research subject or to report research-related problems.
 
-Your Consent
+**Your Consent**
+
 If you consent to participate in this study and are at least 18 years old, no action is needed.  If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at  https://goo.gl/forms/JSBRjEmkES6W6xYc2.  Your instructor will not have access to the list of students who opted out until after grades are posted.  Note that you must separately opt-out of the study for each course involved in this study.
