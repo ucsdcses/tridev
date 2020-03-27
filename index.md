@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "UCSD CSE8A – Introduction to Programming 1"
+title: "UCSD CSE100 – Advanced Data Structures"
 doodle: "/doodle.png"
 ---
 
@@ -44,11 +44,11 @@ course, as well as the syllabus.
 
 <a id="b:lec"></a>
 
-<h3>Lecture</h3>
+### ~~Lecture~~ Problem Solving Sessions
 
 Content in the course will be mostly delivered via pre-recorded videos and
 the Stepik textbook. In the normally-scheduled lecture sections, you will
-work in groups to complete challenge problems related to the homework and
+work in groups to complete problems related to the homework and
 programming assignments, with Q&A and guidance from the instructors.
 (Virtual) attendance at the scheduled lecture sections is not required, but
 it is encouraged. You're also encouraged, but not required, to virtually
