@@ -219,6 +219,24 @@ with a content question. The course staff as a whole works together to make
 sure these messages get prompt responses (often by adding to the frequently
 asked questions post).
 
+<a id="pa:piazzahelp"></a>
+<h4>Asking & Answering questions on Piazza</h4>
+
+Piazza is an online discussion board where we can make announcements and students can ask questions. Both we (the course staff) and your classmates can answer your questions. There are a few kinds of questions you should ask on Piazza:
+
+- Private questions about closed programming assignments for clarification
+- Private questions about your grade / account
+- Public questions about open programming assignments
+- Public questions about the content of lecture, discussion, lab, and any readings
+
+For each assignment, you will find a Frequently Asked Questions post, where we will answer all common questions we receive in office hours and via (private) Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
+
+When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a
+mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear.
+Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone.
+For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading,
+completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may
+indeed lead you in helpful directions.
 
 <a id="grading"></a>
 ## Grading
