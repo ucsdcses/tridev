@@ -54,23 +54,7 @@ programming assignments, with Q&A and guidance from the instructors.
 it is encouraged. You're also encouraged, but not required, to virtually
 attend the lecture section for which you are enrolled.
 
-
-<table class="table table-striped">
-<thead>
-  <tr>
-    <th>Lecture</th><th>Time</th><th>Location</th>
-  </tr>
-</thead>
-<tr>
-  <td>A00</td><td>Mon/Wed/Fri XXX</td><td>[LINK]</td>
-</tr>
-<tr>
-  <td>B00</td><td>Mon/Wed/Fri XXX</td><td>[LINK]</td>
-</tr>
-<tr>
-  <td>C00</td><td>Tue/Thu XXX</td><td>[LINK]</td>
-</tr>
-</table>
+<iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_3b4t8da4r9au5k1r17tr1catuk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <a id="b:disc"></a>
 <h3>Discussion Sections</h3>
