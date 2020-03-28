@@ -18,6 +18,9 @@ doodle: "/doodle.png"
 <a href="#policies">Policies</a>
 </p>
 
+**This page may receive important updates in Week 1 (through April 3) as we
+adjust in response to our switch to remote instruction.**
+
 This course will focus on high-performance data structures and supporting
 algorithms. You will use and implement of data structures like (un)balanced
 trees, graphs, priority queues, and hash tables. You will also learn how to
@@ -47,12 +50,31 @@ course, as well as the syllabus.
 ### ~~Lecture~~ Problem Solving Sessions
 
 Content in the course will be mostly delivered via pre-recorded videos and
-the Stepik textbook. In the normally-scheduled lecture sections, you will
-work in groups to complete problems related to the homework and
-programming assignments, with Q&A and guidance from the instructors.
-(Virtual) attendance at the scheduled lecture sections is not required, but
-it is encouraged. You're also encouraged, but not required, to virtually
-attend the lecture section for which you are enrolled.
+the Stepik textbook.
+
+We are splitting the normally-scheduled lecture sections into multiple
+_problem-solving sessions_, which occur both within the scheduled lecture time
+and at other times throughout the day. In these, you will work in groups to
+complete problems related to the homework and programming assignments, with Q&A
+and guidance from the instructors. The different sessions will mostly focus on
+the same problem-solving tasks – you are welcome to attend just one or as many
+as you would like. The Tuesday/Thursday sessions are 45 minutes, and the
+Mon/Wed/Fri sessions are 30 minutes.
+
+The motivation for this is that most of our lectures are typically split
+between lecturing and intermittent discussion, Q&A, and peer instruction with
+clickers. Rather than try to replicate rich in-class interactions across time
+zones, physical distance, and electronic tools, we split the content delivery
+(lecture) part from the problem-solving/interaction part. So you should think
+of spending the same amount of time on “lecture” as you would normally (about
+150 minutes per week), but about half will be spent on videos on your own time,
+and about half will be in problem-solving sessions.
+
+(Virtual) attendance at the sessions is not required, but it is encouraged.
+You're also encouraged to virtually attend sessions on the day in which you are
+enrolled, though you can attend any and all of them. The sessions are shown in
+the calendar below. Each entry has a link to a Zoom meeting that you can join
+at the specified time.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_3b4t8da4r9au5k1r17tr1catuk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -326,15 +348,15 @@ that details some examples of what we expect in terms of collaboration in the
 course.
 
 Note that with the course remote, one challenge we face as an instructional
-team is verifying that students are submitting their own work. We typically
-use exams to mitigate this particular challenge to academic integrity, since
-it requires an in-person, ID-checked assessment. Assignments and exams will
-come with specific policies for what types of collaboration is allowed, but
-we have one course-wide policy – we may reach out to students to schedule a
-check-in on their understanding of work they've submitted. We might do so at
-random as a spot check, or because we notice something odd in a submission.
-Your ability to describe your submitted work could be used as an additional
-assessment and part of your grade.
+team is verifying that students are submitting their own work. We typically use
+exams to mitigate this particular challenge to academic integrity, since it
+requires an in-person, ID-checked assessment. Assignments and exams will come
+with specific policies for what types of collaboration is allowed, but we have
+one course-wide policy – we may reach out to students to schedule a check-in on
+their understanding of work they've submitted if we're suspicious about an
+academic integrity violation. This would involve a videoconference with a TA or
+instructor to check that the student has the understanding demonstrated by
+their work.
 
 We don't expect to use this option much (certainly **you** are a student that
 acts with integrity!), but we state it clearly in the syllabus in case it
