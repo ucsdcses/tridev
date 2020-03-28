@@ -321,7 +321,7 @@ so you can make the best decision for your situation.
 ### Academic Integrity
 
 We have a [missive on academic integrity you must agree
-to TODO update](https://docs.google.com/document/d/1F6tu-82W5kFkEkZG8n4F7p-MLhyFVWLdPw5Tm1fABfM/edit?folder=1jNMUNlJuyXaOxDE5MdNNfRFARxfP40Rr#)
+to](https://docs.google.com/document/d/1InTXCXdx5VIiGSX5R3Fe1c_UHC3kXL-SnjqIZA3OMGw/edit)
 that details some examples of what we expect in terms of collaboration in the
 course.
 
