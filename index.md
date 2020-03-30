@@ -85,9 +85,11 @@ Canvas.
 <h3>Discussion Sections</h3>
 
 Discussion sections will demo tools and answer questions about the
-programming assignment specifications. Attendance is highly recommended but
+programming assignment specifications. Starting Thursday of Week 1, a video on the relevant tools and programming assignment will be available on the course schedule. Discussion sections will 30 minutes long and allow you to ask clarifying questions on the programming assignments and tools. You are encouraged to watch the videos before attending discussion.  
+
+Attendance is highly recommended but
 not required. You can attend any of the sections. These discussion sections
-will all be held via Zoom. The link will be the same for all discussion sections.
+will all be held via Zoom and will be 30 minutes long where you can ask questions about tools and the programming assignments. The link will be the same for all discussion sections.
 
 **Zoom Link:** https://ucsd.zoom.us/j/640188624  
 Meeting ID: 640 188 624  
@@ -99,13 +101,13 @@ Find your local number to call in: https://ucsd.zoom.us/u/aph8Ilzn8
   </tr>
 </thead>
 <tr>
-  <td>A01 </td><td> Th 7pm </td>
+  <td>A01 </td><td> Th 7-7:30pm </td>
 </tr>
 <tr>
-  <td>B01 </td><td> Tu 7pm </td>
+  <td>B01 </td><td> Tu 7-7:30pm </td>
 </tr>
 <tr>
-  <td>C01 </td><td> Mon 4pm </td>
+  <td>C01 </td><td> Mon 4-4:30pm </td>
 </tr>
 </table>
 
