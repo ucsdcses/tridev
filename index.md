@@ -87,8 +87,11 @@ Canvas.
 Discussion sections will demo tools and answer questions about the
 programming assignment specifications. Attendance is highly recommended but
 not required. You can attend any of the sections. These discussion sections
-will all be held via Zoom.
+will all be held via Zoom. The link will be the same for all discussion sections.
 
+**Zoom Link:** https://ucsd.zoom.us/j/640188624  
+Meeting ID: 640 188 624  
+Find your local number to call in: https://ucsd.zoom.us/u/aph8Ilzn8  
 <table class="table table-striped">
 <thead>
   <tr>
