@@ -200,10 +200,7 @@ ticket, you should submit a link to a Zoom meeting **that you create and
 start**. The tutor will join that Zoom meeting, chat with you to help you
 with your issue, and then leave the meeting. You can, for example, start a
 screenshare with your code before the tutor arrives to help them immediately
-see your issue and present what you're seeing.
-
-[Can be TUTOR/TA TODO to fill this in, this is an update of the instructions
-from last quarter]
+see your issue and present what you're seeing. The student procedures for open lab hours can be accessed [here](https://docs.google.com/document/d/1vXpGUDBD6TsO4vc6EfIbX53XljFp68BXJPsDf6Lkm_Y/edit).
 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_ah9di1m4nd06gfvd88kkjjpjl8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
