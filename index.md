@@ -76,8 +76,9 @@ enrolled, though you can attend any and all of them. The sessions are shown in
 the calendar below. Each entry has a link to a Zoom meeting that you can join
 at the specified time.
 
-**Problem solving sessions will be recorded** with recordings posted within
-Canvas.
+Slide decks can be found [here](https://drive.google.com/drive/folders/1uO_vrGXUCidyB8hpkCA-j7PGEBI0b56l?usp=sharing).
+
+**Problem solving sessions will be recorded** with recordings posted on the corresponding calendar items below.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=eng.ucsd.edu_3b4t8da4r9au5k1r17tr1catuk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
