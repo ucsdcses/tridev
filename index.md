@@ -86,7 +86,7 @@ Slide decks can be found [here](https://drive.google.com/drive/folders/1uO_vrGXU
 <h3>Discussion Sections</h3>
 
 Discussion sections will demo tools and answer questions about the
-programming assignment specifications. Starting Thursday of Week 1, a video on the relevant tools and programming assignment will be available on the course schedule. Discussion sections will 30 minutes long and allow you to ask clarifying questions on the programming assignments and tools. You are encouraged to watch the videos before attending discussion.  
+programming assignment specifications. Starting Thursday of Week 1, a video on the relevant tools and programming assignment will be available on the course schedule. Discussion sections will 30 minutes long and allow you to ask clarifying questions on the programming assignments and tools. You are encouraged to watch the videos before attending discussion. The videos will be posted and linked in the **Schedule** below. 
 
 Attendance is highly recommended but
 not required. You can attend any of the sections. These discussion sections
