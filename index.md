@@ -18,8 +18,6 @@ doodle: "/doodle.png"
 <a href="#policies">Policies</a>
 </p>
 
-**This page may receive important updates in Week 1 (through April 3) as we
-adjust in response to our switch to remote instruction.**
 
 This course will focus on high-performance data structures and supporting
 algorithms. You will use and implement of data structures like (un)balanced
