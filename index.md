@@ -273,6 +273,14 @@ will be clearly labelled with each lecture. You must engage with at least **8
 weeks'** worth of the required engagement material for a full score, and
 engagement scores will be calculated on a week-by-week basis.
 
+In terms of a formula if you want to count more precisely:
+
+- Each quiz counts for credit if you submit and get more than 1/2 of the
+  questions correct
+- Each week counts for credit if you get credit for 2/3 of the quizzes
+- Weeks are counted independently (we are not totalling all of the quizzes and
+  dividing by some denominator)
+
 ### Programming Projects
 
 There will be two larger programming projects that are assigned in the later
