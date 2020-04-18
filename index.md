@@ -264,6 +264,13 @@ data structures, and will be partially automatically graded and partially
 graded by course staff. These will be released on a weekly basis for the
 first part of the course.
 
+After the deadline of each assignment, we'll open up a new assignment where you
+can resubmit the autograded portion. You can earn back up to 50% of the missed
+credit on the autograded portion of the assignment by submitting to these. This
+includes the case where you didn't submit to a particular assignment, and can
+still get half the credit on resubmission.
+
+
 <a id="p:engage"></a>
 ### Engagement
 
