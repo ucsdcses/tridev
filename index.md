@@ -92,9 +92,9 @@ will all be held via Zoom and will be 30 minutes long where you can ask question
 
 Discussion slides can be found [here](https://drive.google.com/drive/folders/1w9o5XyL2Nro2EsUanZMydW1DjHSRHPJj?usp=sharing).
 
-**Zoom Link:** https://ucsd.zoom.us/j/640188624  
+**Zoom Link:** [https://ucsd.zoom.us/j/640188624](https://ucsd.zoom.us/j/640188624)  
 Meeting ID: 640 188 624  
-Find your local number to call in: https://ucsd.zoom.us/u/aph8Ilzn8  
+Find your local number to call in: [https://ucsd.zoom.us/u/aph8Ilzn8](https://ucsd.zoom.us/u/aph8Ilzn8) 
 <table class="table table-striped">
 <thead>
   <tr>
