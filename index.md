@@ -290,6 +290,9 @@ In terms of a formula if you want to count more precisely:
 - Weeks are counted independently (we are not totalling all of the quizzes and
   dividing by some denominator)
 
+Reading quizzes are **open to collaboration**, feel free to discuss them with
+your classmates!
+
 ### Programming Projects
 
 There will be two larger programming projects that are assigned in the later
