@@ -94,7 +94,7 @@ Discussion slides can be found [here](https://drive.google.com/drive/folders/1w9
 
 **Zoom Link:** [https://ucsd.zoom.us/j/640188624](https://ucsd.zoom.us/j/640188624)  
 Meeting ID: 640 188 624  
-Find your local number to call in: [https://ucsd.zoom.us/u/aph8Ilzn8](https://ucsd.zoom.us/u/aph8Ilzn8) 
+Find your local number to call in: [https://ucsd.zoom.us/u/aph8Ilzn8](https://ucsd.zoom.us/u/aph8Ilzn8)
 <table class="table table-striped">
 <thead>
   <tr>
@@ -389,6 +389,47 @@ becomes necessary so it isn't a surprise to anyone.
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
 on academic integrity as well.
+
+### Pair Programming Guidelines
+Update from Professor Paul Cao’s CSE 100 Policy
+
+In CSE 100 you may choose to do the projects either on your own, or with a partner.  If you choose to work with a partner on programming assignments, we require that you engage in a true  "Pair Programming" approach. In pair programming, two programmers share one computer. One person is the "driver," who controls the keyboard and mouse. The other is the "navigator," who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two pair programmers switch roles every 20 minutes. We suggest you use a shareable online timer to keep track of when it is time to switch roles.
+
+Please read this entire document, but the highlights are:
+
+- Once you commit to working with a partner or working solo by starting the assignment, you are committed to either staying solo or staying with your partner.  If you must split, you must contact your instructor immediately for permission.
+
+- If you choose to work with a partner, you must engage in true pair programming.  **Splitting the work is a violation of the academic integrity agreement for this course and will result in an F and an academic integrity violation on your record.**
+
+- You may choose your own partner and your partner may be from any section of this term’s CSE 100.
+
+- Due to everything being remote you MUST be on a zoom call or something similar where you can screen share and you are both able to look at the code at the same time.
+
+The most important rule of pair programming is that you must work together, co-located, on the same part of the assignment at the same time. Splitting up the work on a project is considered cheating.
+
+We recommend you use the Piazza feature “Search for Teammates!” to find a partner if you are having trouble. Working with a partner is always optional.  You will need to arrange times to meet. We expect you will need at least 6 hours each week to work with your partner.  We expect everyone to be flexible and professional in arranging those times as necessary; if your schedule is highly constrained, explore possible meeting times with your prospective partner before you commit to the partnership.
+
+#### Choosing a Partner
+You should try to pick a partner whose experience and skill level with programming is similar to your own. This may not always be possible and it is sometimes hard to compare skill levels, but students tell us (and other data support) that pairs are most productive when the partners start at about the same level.
+
+Still, people often pair up with another whose skills are different. This happens more often than not, as no two people have an identical skill set. The differences may be great or small, but this is exactly like most real-world working situations. Part of accomplishing a task is to get the most out of each member and make each member stronger and more productive on subsequent tasks.
+
+Students bring different strengths to the process, regardless of how much experience they have had with programming. Both experienced and inexperienced students will need to draw on their reasoning and problem solving skills. A more experienced partner may sometimes feel frustrated or slowed down by a less experienced partner, but the experienced partner still benefits from the teamwork in many ways. The less experienced partner’s requests for clarification often uncover flaws in an approach or solution; the exercise of providing a clear explanation solidifies and deepens the explainer’s own understanding and the teamwork and communication skills they gain have great value in both the academic realm and the job market.
+
+It is each partner’s job to understand the whole task; that means asking questions when necessary and answering them when possible.
+
+It may be instructive to read a selection of students’ partner evaluation comments from similar courses that have used pair programming; they give a picture of what good partnerships are like (and a few disasters, too). Read Pair Programming Evaluations from the University of California, Irvine Bren School of Information and Computer Sciences.
+
+#### Dealing with Differences/Splitting from Your Partner
+Once you begin your assignment, you are locked into working solo or with your partner.  If you believe your partner is not participating appropriately in pair programming (e.g., she or he does not keep in touch, does not come prepared to work on the assignment, or does not seem to be engaged in the process) please first address your concerns to your partner, and try to agree on what should be done to make the pair programming experience work well for both of you. If that approach is not successful, explain the issues to your teaching assistant or the instructor, who will work with you and your partner to improve the situation.  You must get permission from your instructor to split from your partner.  You should never simply complete the assignment without an agreement from your partner and the instructor that this is the best course of action. Doing so is a violation of the academic integrity policy for this course.
+
+#### How Pair Programming Affects Your Grade
+On the Projects where you choose to partner, you and your partner will receive the same score on your code.
+
+#### When in Doubt, Seek Clarification
+Pair programming is shown to help, not hinder, your successful completion of a course. It is important that you understand the processes and expectations up front so you can gain the most benefit. If you are unsure of any of the aspects of pair programming and how it is implemented in the course, see your instructor right away.
+
+
 
 ### Late Work
 
