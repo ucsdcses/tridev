@@ -284,7 +284,7 @@ engagement scores will be calculated on a week-by-week basis.
 
 In terms of a formula if you want to count more precisely:
 
-- Each quiz counts for credit if you submit and get more than 1/2 of the
+- Each quiz counts for credit if you submit and get at least 1/2 of the
   questions correct
 - Each week counts for credit if you get credit for 2/3 of the quizzes
 - Weeks are counted independently (we are not totalling all of the quizzes and
