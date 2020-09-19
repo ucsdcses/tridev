@@ -1,14 +1,7 @@
----
-layout: page
-title: "UCSD CSE100 – Advanced Data Structures"
-doodle: "/doodle.png"
----
+# TriDev
 
-# Advanced Data Structures (UCSD CSE 100)
-
-<a href="">Niema Moshiri</a> (Instructor)
-<a href="">Sander Valstar</a> (Instructor)
-<a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
+<a href="https://wwww.github.com/anshulsinghh">Anshul Singh</a> (Projects Chair)
+<a href="">Yuzi LYu</a> (Projects Chari)
 
 <p>
 <a href="#basics">Basics</a> -
