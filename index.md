@@ -1,7 +1,7 @@
 # 	🔱 TriDev
 
 <a href="https://www.github.com/anshulsinghh">Anshul Singh</a> (Projects Chair) · 
-<a href="">Yuzi LYu</a> (Projects Chari)
+<a href="">Yuzi LYu</a> (Projects Chair)
 
 <p>
 <a href="#basics">Basics</a> -
