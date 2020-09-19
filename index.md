@@ -25,36 +25,15 @@ Students are set into groups of 4/5 people, and build software projects througho
 
 <a id="b:lec"></a>
 
-### ~~Lecture~~ Problem Solving Sessions
+### Timeline
+10 Week Program:
+- Week 1: Recruiting and group formation
+- Week 2: Choosing projects, and creating detailed designs/timelines for the quarter
+- Weeks 3-6: Creating working prototypes (weekly meetings w/ projects chairs)
+- Weeks 7-9: Finalize working prototypes
+- Week 10: Deploy final projects, and present ending results
 
-Content in the course will be mostly delivered via pre-recorded videos and
-the Stepik textbook.
 
-We are splitting the normally-scheduled lecture sections into multiple
-_problem-solving sessions_, which occur both within the scheduled lecture time
-and at other times throughout the day. In these, you will work in groups to
-complete problems related to the homework and programming assignments, with Q&A
-and guidance from the instructors. The different sessions will mostly focus on
-the same problem-solving tasks – you are welcome to attend just one or as many
-as you would like. The Tuesday/Thursday sessions are 45 minutes, and the
-Mon/Wed/Fri sessions are 30 minutes.
-
-The motivation for this is that most of our lectures are typically split
-between lecturing and intermittent discussion, Q&A, and peer instruction with
-clickers. Rather than try to replicate rich in-class interactions across time
-zones, physical distance, and electronic tools, we split the content delivery
-(lecture) part from the problem-solving/interaction part. So you should think
-of spending the same amount of time on “lecture” as you would normally (about
-150 minutes per week), but about half will be spent on videos on your own time,
-and about half will be in problem-solving sessions.
-
-(Virtual) attendance at the sessions is not required, but it is encouraged.
-You're also encouraged to virtually attend sessions on the day in which you are
-enrolled, though you can attend any and all of them. The sessions are shown in
-the calendar below. Each entry has a link to a Zoom meeting that you can join
-at the specified time.
-
-Slide decks can be found [here](https://drive.google.com/drive/folders/1uO_vrGXUCidyB8hpkCA-j7PGEBI0b56l?usp=sharing).
 
 **Problem solving sessions will be recorded** with recordings posted on the corresponding calendar items below.
 
