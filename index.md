@@ -20,7 +20,7 @@ Students are set into groups of 4/5 people, and build software projects througho
 
 ## Basics
 
-**Projects Discord:** Join our Projects discord [here](https://discord.gg/wPj9xzw)
+**Projects Discord:** Join our Projects discord [here](https://discord.gg/wPj9xzw)  
 **CSES Discord:** Join the general CSES discord [here](https://discord.gg/cnUQRRb)
 
 <a id="b:lec"></a>
