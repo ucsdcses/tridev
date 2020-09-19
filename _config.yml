@@ -3,5 +3,5 @@ title: "🔱 TriDev"
 source: .
 destination: _site
 lsi: false
-url: "/tridev"
+url: "ucsdcses.github.io/tridev"
 :pygments: true
