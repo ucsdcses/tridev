@@ -1,4 +1,4 @@
-# TriDev
+# 	🔱 TriDev
 
 <a href="https://wwww.github.com/anshulsinghh">Anshul Singh</a> (Projects Chair)
 <a href="">Yuzi LYu</a> (Projects Chari)
