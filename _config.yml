@@ -3,4 +3,5 @@ title: "🔱 TriDev"
 source: .
 destination: _site
 lsi: false
+url: "/tridev"
 :pygments: true
