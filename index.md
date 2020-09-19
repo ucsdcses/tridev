@@ -20,6 +20,8 @@ Students are set into groups of 4/5 people, and build software projects througho
 
 ## Basics
 
+***Before reading further, TriDev will be time intensive. Be ready to put in 7-10 hours per week (can be variable) if you apply.***
+
 **Projects Discord:** Join our Projects discord [here](https://discord.gg/wPj9xzw)  
 **CSES Discord:** Join the general CSES discord [here](https://discord.gg/cnUQRRb)
 
