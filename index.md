@@ -59,5 +59,10 @@ Recruitment will happen in multiple steps. First, applicants will apply through 
 - Projects will be deployed, and ending results of the program will be featured on this website
 - Final presentations will have members of the CSES board in attendance
 
+## Projects Ideas
+- Students will have the freedom to either work on a project idea that the projects chairs come up with, or submit a unique idea for approval by the chairs
+- Some ideas we had include Discord Bots, working on the Riot Games API, and a Course Prereqs tracker
+- If a group submits a unique idea, it should be finishable within the 10-week long quarter, and has to be approved by the chairs
+
 ## Projects Groups
 To Be Announced!
