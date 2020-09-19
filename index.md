@@ -20,35 +20,36 @@ Students are set into groups of 4/5 people, and build software projects througho
 
 ## Basics
 
-***`Before reading further, TriDev will be time intensive. Be ready to put in 7-10 hours per week (can be variable) if you apply.`***
+***`Before reading further, TriDev is time intensive. Be ready to put in 7-10 hours per week if you apply.`***
 
 **Projects Discord:** Join our Projects discord [here](https://discord.gg/wPj9xzw)  
 **CSES Discord:** Join the general CSES discord [here](https://discord.gg/cnUQRRb)
 
 <a id="b:lec"></a>
 
-### Timeline (10 Week Program)
-#### Week 1: Recruiting and group formation
+
+## Timeline (10 Week Program)
+### Week 1: Recruiting and group formation
 - Recruitment will happen primarily in Week 1
 - Launch It applications will be due by October 9th (Friday)
 - We will move forward with candidates on a rolling basis, and form initial projects groups
 
-#### Week 2: Choosing projects, and creating detailed designs/timelines for the quarter
+### Week 2: Choosing projects, and creating detailed designs/timelines for the quarter
 - Projects groups will scope out various projects, and create a detailed Project Document
 - Project Document will have a project description, basic drawings, and a formal week-by-week timeline with project milestones
 - Project Document along with proposed timelines will be reviewed and approved by projects chairs
 
-#### Weeks 3-6: Creating working prototypes (weekly meetings w/ projects chairs)
+### Weeks 3-6: Creating working prototypes (weekly meetings w/ projects chairs)
 - Projects will execute the plan they set out in their document, with weekly check-in meetings with projects chairs
 - Projects Chairs will be available to discuss critical bugs, and help groups along the way
 - Projects should be primarily undertaken amongst the group, projects chairs will be availble for support though
 
-#### Weeks 7-9: Finalize working prototypes
+### Weeks 7-9: Finalize working prototypes
 - We've set Weeks 7-9 as buffer weeks, in case projects need more time or if projects chairs had a slow recruitment phase
 - Projects will finalize their prototypes, and prepare the project for deployment
 - All of this should be done in accordance with the proposed timelines from Week 2
 
-#### Week 10: Deploy final projects, and present ending results
+### Week 10: Deploy final projects, and present ending results
 - Projects will be deployed, and ending results of the program will be featured on this website!
 
 
