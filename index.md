@@ -11,30 +11,17 @@
 <a href="#policies">Policies</a>
 </p>
 
+TriDev is a quarter-long program that allows students to build end-to-end CS projects.
 
-This course will focus on high-performance data structures and supporting
-algorithms. You will use and implement of data structures like (un)balanced
-trees, graphs, priority queues, and hash tables. You will also learn how to
-make sophisticated use of memory management, pointers, and recursion in
-programs, and analyze them with theoretical and practical performance
-analysis.
-
-We will explore these topics interactively in lecture, you will implement
-programs to practice your programming skills, and you will reflect on this
-learning through your own program designs.
-
-This web page serves as the main source of announcements and resources for the
-course, as well as the syllabus.
+Students are set into groups of 4/5 people, and build software projects throughout the quarter. Students get to build skills that recruiters look for, and can build a project that they can feature on their resumes!
 
 <a id="basics"></a>
 
 
 ## Basics
 
-- Q&A Forum: Discussions on [https://piazza.com](https://piazza.com/class/k84yx1xfo797b)
-- Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
-- Readings/quizzes/drill assignments: [Stepik class signup](https://stepik.org/course/579/syllabus)
-
+- Projects Discord: Join our Projects discord [here](https://discord.gg/wPj9xzw)
+- CSES Discord: Join the general CSES discord [here](https://discord.gg/cnUQRRb)
 
 <a id="b:lec"></a>
 
