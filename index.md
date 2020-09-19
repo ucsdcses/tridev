@@ -33,7 +33,7 @@ Students are set into groups of 4/5 people, and build software projects througho
 
 #### Week 2: Choosing projects, and creating detailed designs/timelines for the quarter
 - Projects groups will scope out various projects, and create a detailed Project Document
-- Project Document will have a project description, basic drawings of the project, and a formal week-by-week timeline with project milestones
+- Project Document will have a project description, basic drawings, and a formal week-by-week timeline with project milestones
 - Project Document along with proposed timelines will be reviewed and approved by projects chairs
 
 #### Weeks 3-6: Creating working prototypes (weekly meetings w/ projects chairs)
