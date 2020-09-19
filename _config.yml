@@ -1,6 +1,6 @@
 safe: true
 source: .
-title: "🔱 TriDev"
+title: 🔱 TriDev
 destination: _site
 lsi: false
 :pygments: true
