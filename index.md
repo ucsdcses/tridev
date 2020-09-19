@@ -1,7 +1,7 @@
 # 	🔱 TriDev
 
 <a href="https://www.github.com/anshulsinghh">Anshul Singh</a> (Projects Chair) · 
-<a href="">Yuzi LYu</a> (Projects Chair)
+<a href="https://www.linkedin.com/in/yuzi-lyu-13658a1a3/">Yuzi LYu</a> (Projects Chair)
 
 <p>
 <a href="#duties">Duties and Expectations</a> -
@@ -13,7 +13,7 @@
 
 TriDev is a quarter-long program that allows students to build end-to-end CS projects.
 
-Students are set into groups of 4/5 people, and build software projects throughout the quarter. Students get to build skills that recruiters look for, and can build a project that they can feature on their resumes!
+Students are set into groups of 4 to 5 people, and build software projects throughout the quarter. Students get to build skills that recruiters look for, and can build a project that they can feature on their resumes!
 
 
 ***`Before reading further, TriDev is time intensive. Be ready to put in 7-10 hours per week if you apply.`***
@@ -30,7 +30,7 @@ Students are set into groups of 4/5 people, and build software projects througho
 
 <a id="recruitment"></a>
 ## Recruitment
-Recruitment will happen in multiple steps. First, applicants will apply through Launch It to the TriDev program. We will screen applicants, and send links to google forms to applicants that we want to move forward with. After reviewing responses to our google form surveys, we'll contact applicants for possible interviews/team matching. *Details will be released at the Fall CSES GBM.*
+Recruitment will happen in multiple steps. First, applicants will apply through [LaunchIt](https://www.launchitnow.org/posts/dUKhw0nlhx51Y4Qj5l9k) to the TriDev program. Please follow the instruction listed in the post created by CSES on LaunchIt. We will screen applicants, and send links to google forms to applicants that we want to move forward with. After reviewing responses to our google form surveys, we'll contact applicants for possible interviews/team matching. *Details will be released at the Fall CSES GBM.*
 
 <a id="timeline"></a>
 ## Timeline (10 Week Program)
