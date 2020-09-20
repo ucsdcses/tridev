@@ -5,6 +5,7 @@
 
 <p>
 <a href="#duties">Duties and Expectations</a> -
+  <a href="#themes">Themes</a> -
 <a href="#recruitment">Recruitment</a> -
 <a href="#timeline">Timeline</a> -
 <a href="#projectideas">Project Ideas</a> -
@@ -28,9 +29,17 @@ Students are set into groups of 4 to 5 people, and build software projects throu
 - Be fully committed to the projects, and be responsible for your teams progress
 - Be communicative with your teammates, and respond to messages in a timely manner
 
+<a id="themes"></a>
+## Themes;
+- Every quarter we will have a different theme for our project teams. We encourage the teams to realize ideas that follow the themes.
+- Feel free to talk to the project chairs about the ideas that you are passionate about but outside the theme. We will evaluate the ideas together.
+- Theme for Fall: Discord bots.
+- Theme for Winter: League of Legends APIs
+- Theme for Spring: Course trackers
+
 <a id="recruitment"></a>
 ## Recruitment
-Recruitment will happen in multiple steps. First, applicants will apply through [LaunchIt](https://www.launchitnow.org/posts/dUKhw0nlhx51Y4Qj5l9k) to the TriDev program. Please follow the instruction listed in the post created by CSES on LaunchIt. We will screen applicants, and send links to google forms to applicants that we want to move forward with. After reviewing responses to our google form surveys, we'll contact applicants for possible interviews/team matching. *Details will be released at the Fall CSES GBM.*
+This year the recruitment process will be rolling application and it will happen in multiple steps. First, applicants will apply through [LaunchIt](https://www.launchitnow.org/posts/dUKhw0nlhx51Y4Qj5l9k) to the TriDev program. Please follow the instruction listed in the post created by CSES on LaunchIt. We will screen applicants, and send links to google forms to applicants that we want to move forward with. After reviewing responses to our google form surveys, we'll contact applicants for possible interviews/team matching. *Details will be released at the Fall CSES GBM.*
 
 <a id="timeline"></a>
 ## Timeline (10 Week Program)
