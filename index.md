@@ -5,10 +5,9 @@
 
 <p>
 <a href="#duties">Duties and Expectations</a> -
-  <a href="#themes">Themes</a> -
+<a href="#themes">Themes</a> -
 <a href="#recruitment">Recruitment</a> -
 <a href="#timeline">Timeline</a> -
-<a href="#projectideas">Project Ideas</a> -
 <a href="#projectgroups">Project Groups</a>
 </p>
 
@@ -30,15 +29,16 @@ Students are set into groups of 4 to 5 people, and build software projects throu
 - Be communicative with your teammates, and respond to messages in a timely manner
 
 <a id="themes"></a>
-## Themes;
+## Themes:
 - Every quarter we will have a different theme for our project teams. We encourage the teams to realize ideas that follow the themes.
 - Feel free to talk to the project chairs about the ideas that you are passionate about but outside the theme. We will evaluate the ideas together.
+- If a group submits a unique idea, it should be finishable within the 10-week long quarter, and has to be approved by the chairs
 - Theme for Fall: Discord bots.
 - Theme for Winter: League of Legends APIs
 - Theme for Spring: Course trackers
 
 <a id="recruitment"></a>
-## Recruitment
+## Recruitment:
 This year the recruitment process will be rolling application and it will happen in multiple steps. First, applicants will apply through [LaunchIt](https://www.launchitnow.org/posts/dUKhw0nlhx51Y4Qj5l9k) to the TriDev program. Please follow the instruction listed in the post created by CSES on LaunchIt. We will screen applicants, and send links to google forms to applicants that we want to move forward with. After reviewing responses to our google form surveys, we'll contact applicants for possible interviews/team matching. *Details will be released at the Fall CSES GBM.*
 
 <a id="timeline"></a>
@@ -67,12 +67,6 @@ This year the recruitment process will be rolling application and it will happen
 - Projects will be deployed, and ending results of the program will be featured on this website
 - Final presentations will have members of the CSES board in attendance
 
-<a id="projectideas"></a>
-## Project Ideas
-- Students will have the freedom to either work on a project idea that the projects chairs come up with, or submit a unique idea for approval by the chairs
-- Some ideas we had include Discord Bots, working on the Riot Games API, and a Course Prereqs tracker
-- If a group submits a unique idea, it should be finishable within the 10-week long quarter, and has to be approved by the chairs
-
 <a id="projectgroups"></a>
-## Projects Groups
+## Projects Groups:
 To Be Announced!
