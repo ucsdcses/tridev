@@ -16,7 +16,7 @@ TriDev is a quarter-long program that allows students to build end-to-end CS pro
 Students are set into groups of 4 to 5 people, and build software projects throughout the quarter. Students get to build skills that recruiters look for, and can build a project that they can feature on their resumes!
 
 
-***`Before reading further, TriDev is time intensive. Be ready to put in 7-10 hours per week if you apply.`***
+***`Before reading further, TriDev is beginner friendly. You need little coding experience to be successful. We stress that TriDev is time intensive. Be ready to put in 7-10 hours per week if you apply.`***
 
 **Projects Discord:** Join our Projects discord [here](https://discord.gg/wPj9xzw)  
 **CSES Discord:** Join the general CSES discord [here](https://discord.gg/cnUQRRb)
