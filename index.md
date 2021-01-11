@@ -39,7 +39,7 @@ Students are set into groups of 4 to 5 people, and build software projects throu
 
 <a id="recruitment"></a>
 ## Recruitment:
-This year the recruitment process will be rolling application and it will happen in multiple steps. First, applicants will apply through [LaunchIt](https://www.launchitnow.org/posts/dUKhw0nlhx51Y4Qj5l9k) to the TriDev program. Please follow the instruction listed in the post created by CSES on LaunchIt. We will screen applicants, and send links to google forms to applicants that we want to move forward with. After reviewing responses to our google form surveys, we'll contact applicants for possible interviews/team matching. *Details will be released at the Fall CSES GBM.*
+This year the recruitment process will be rolling application and it will happen in multiple steps. First finish the google forms with three short responses to our essay questions. Make sure you finish all three them since they are crucial for reviewing an applicant. If you do not finish all three of the questions you will NOT be considered. After reviewing responses to our google form surveys, we'll contact applicants for possible interviews/team matching. 
 
 <a id="timeline"></a>
 ## Timeline (10 Week Program)
